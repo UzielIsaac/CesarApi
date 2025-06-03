@@ -31,3 +31,35 @@ C:\Users\Uziel Pech\Documents\CesarApi\CesarApi\obj\Debug\net9.0\refint\CesarApi
 C:\Users\Uziel Pech\Documents\CesarApi\CesarApi\obj\Debug\net9.0\CesarApi.pdb
 C:\Users\Uziel Pech\Documents\CesarApi\CesarApi\obj\Debug\net9.0\CesarApi.genruntimeconfig.cache
 C:\Users\Uziel Pech\Documents\CesarApi\CesarApi\obj\Debug\net9.0\ref\CesarApi.dll
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\appsettings.json
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\CesarApi.staticwebassets.endpoints.json
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\CesarApi.exe
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\CesarApi.deps.json
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\CesarApi.runtimeconfig.json
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\CesarApi.dll
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\CesarApi.pdb
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.csproj.AssemblyReference.cache
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.AssemblyInfoInputs.cache
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.AssemblyInfo.cs
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.csproj.CoreCompileInputs.cache
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.sourcelink.json
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\scopedcss\bundle\CesarApi.styles.css
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.csproj.Up2Date
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.dll
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\refint\CesarApi.dll
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.pdb
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\CesarApi.genruntimeconfig.cache
+C:\Users\jnoh\OneDrive - Mirka Oy\Escritorio\CesarClone\CesarApi\obj\Debug\net9.0\ref\CesarApi.dll

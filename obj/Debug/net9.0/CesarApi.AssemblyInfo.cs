@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CesarApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f90a55f6447621e2a0e49099a9b14a02c65ba182")]
 [assembly: System.Reflection.AssemblyProductAttribute("CesarApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CesarApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
